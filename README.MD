@@ -15,6 +15,7 @@ import com.data.labeling.workforce.Workforce;
 
 Workforce workforceInstance=Workforce.init(getApplicationContext(),"INTEGRATION_CODE");
 ```
+[example](app/src/main/java/com/data/labeling/workforce/app/MainActivity.java)
 
 Where `INTEGRATION_CODE` is a unique code of your integration provided by managers from the
 [site](https://lab3l.io). Make sure you use the same instance of Workforce class to setup and
