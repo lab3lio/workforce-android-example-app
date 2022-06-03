@@ -1,7 +1,7 @@
 Workforce library
 =================
 
-Add the workforce.aar library into your Android project ([reference](https://developer.android.com/studio/projects/android-library#psd-add-aar-jar-dependency)).
+Add the [workforce.aar](app/libs/workforce.aar) library into your Android project ([reference](https://developer.android.com/studio/projects/android-library#psd-add-aar-jar-dependency)).
 
 Initialize the workforce library in your application start point. We recommend to do it in
 Application OnCreate method, or in your launcher activity OnCreate method. The initialization method
